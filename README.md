@@ -15,6 +15,8 @@ The baselines as well as the state-of-the-art approaches to which our FCA-based 
 
 [http://www.librec.net](http://www.librec.net)
 
+The specific configuration files used in the experimentation in the paper is included at: 
+
 ## Results
 
 [results/task1](https://github.com/AngelCastellanos/common-space-recommendation/tree/master/results/task1) includes the results for the Task 1: Top-N recommendations from unary user feedback. This task deals with the top-N recommendation problem, in which a system is requested to find and recommend a limited set of N items that best match a user profile, instead of correctly predict the ratings for all available items.
