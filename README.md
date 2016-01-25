@@ -15,7 +15,9 @@ The baselines as well as the state-of-the-art approaches to which our FCA-based 
 
 [http://www.librec.net](http://www.librec.net)
 
-The specific configuration files used in the experimentation in the paper is included at: 
+The specific configuration files used in the experimentation in the paper is included at: [code/librec](https://github.com/AngelCastellanos/common-space-recommendation/tree/master/code/librec)
+
+The code related to our proposal is included at [code/fca](https://github.com/AngelCastellanos/common-space-recommendation/tree/master/code/librec)
 
 ## Results
 
