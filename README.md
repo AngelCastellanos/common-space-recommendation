@@ -10,3 +10,5 @@ For experimentation we made use of the "2nd Linked Open Data-enabled Recommender
 [http://sisinflab.poliba.it/events/lod-recsys-challenge-2015/dataset/](http://sisinflab.poliba.it/events/lod-recsys-challenge-2015/dataset/)
 
 ## Results
+
+[results/task1]()
