@@ -11,7 +11,7 @@ For experimentation we made use of the "2nd Linked Open Data-enabled Recommender
 
 ## Code
 
-The baselines as well as the state-of-the-art approaches to which our FCA-based approach has been compared have been implemented with the help of LibRec: A Java Library for Recommender Systems:
+The baselines as well as the state-of-the-art approaches to which our FCA-based approach has been compared have been implemented with the help of LibRec, A Java Library for Recommender Systems:
 
 [http://www.librec.net](http://www.librec.net)
 
